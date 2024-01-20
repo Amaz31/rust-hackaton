@@ -1,0 +1,1 @@
+/home/abdel/EPITECH/HUB/HACKATON/rust-hackaton/rust\ advanced\ exercices/bundle_advanced_exercices/ex03/target/debug/ex03: /home/abdel/EPITECH/HUB/HACKATON/rust-hackaton/rust\ advanced\ exercices/bundle_advanced_exercices/ex03/src/main.rs
