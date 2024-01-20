@@ -1,3 +1,5 @@
+Projet effectué avec Léandre Sentenac, ALexandre Frede, Thomas Papaix ( Voir repo Léandre Sentenac )
+
 # Rust Hackaton with ink! and Substrate ( 9 am - 6 pm )
 
 ## 9:00 - 9:30 am: Welcome and Introductions
